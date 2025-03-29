@@ -33,5 +33,5 @@ A comprehensive task management system designed to help individuals and teams or
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/TaskFlow.git
+git clone https://github.com/LukoffBR/TaskFlow.git
 ```
